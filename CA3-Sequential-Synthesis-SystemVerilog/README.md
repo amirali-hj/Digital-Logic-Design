@@ -1,7 +1,7 @@
 # Computer Assignment 3: Logic Synthesis, Sequential Elements, and Clocked Feedback Systems
 
 ## Project Overview
-This project explores the critical bridge between combinational logic and sequential hardware design using **SystemVerilog**, under the instruction of **Dr. Navabi** at the **University of Tehran**. 
+This project explores the critical bridge between combinational logic and sequential hardware design using **SystemVerilog**, and **Verilog** under the instruction of **Dr. Navabi** at the **University of Tehran**. 
 
 The workload transitions from continuous dataflow abstractions to cell-level hardware synthesis using **Yosys**, primitive gate-level latch modeling with precise transistor-derived delays, and the architectural implementation of synchronous feedback systems via multi-mode counters.
 
